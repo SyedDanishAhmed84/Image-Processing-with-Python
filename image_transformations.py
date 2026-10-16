@@ -22,7 +22,7 @@ if uploaded_file is not None:
         cv2.IMREAD_COLOR
     )
 
-    # Convert BGR → RGB
+    # Converting BGR to RGB
     rgb_image = cv2.cvtColor(
         image,
         cv2.COLOR_BGR2RGB
@@ -39,9 +39,7 @@ if uploaded_file is not None:
     st.subheader("Grayscale")
     st.image(gray)
 
-    # -------------------------
-    # RESIZE
-    # -------------------------
+    # Resizing Image
 
     resized = cv2.resize(
         image,
