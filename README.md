@@ -9,11 +9,11 @@ My goal is to learn by building, practice consistently, and share my progress wi
 
 ## What I'm Exploring
 
-- **Python** — Building a strong foundation for image processing.
-- **Image Processing** — Loading, displaying, and transforming images.
-- **Computer Vision** — Exploring how computers interpret visual information.
-- **YOLO** — Learning object detection and real-time computer vision.
-- **Streamlit** — Creating interactive applications for image processing.
+- **Python** - Building a strong foundation for image processing.
+- **Image Processing** - Loading, displaying, and transforming images.
+- **Computer Vision** - Exploring how computers interpret visual information.
+- **YOLO** - Learning object detection and real-time computer vision.
+- **Streamlit** - Creating interactive applications for image processing.
 
 ## 📚 My Learning Journey
 
